@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAnimal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Animal>
+    <name>Tom</name>
+    <category>cat</category>
+    <Age>3</Age>
+  </Animal>
+  <Animal>
+    <name>Jojo</name>
+    <category>dog</category>
+    <Age>2</Age>
+  </Animal>
+</ArrayOfAnimal>
